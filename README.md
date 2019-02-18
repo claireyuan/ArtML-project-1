@@ -30,4 +30,8 @@ Third Iteration
   - Result: monet_style_transfer3.png
 
 ## Neural Doodle 
-How to run: ./monet_neural_doodle_script.sh
+How to run: 
+
+```
+./monet_neural_doodle_script.sh
+```
