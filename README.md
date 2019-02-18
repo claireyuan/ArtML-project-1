@@ -2,6 +2,8 @@
 
 We use style transfer to explore how artists view themselves. Starting with a photo of the artist, we iteratively apply style transfer algorithms using the artists' self-portraits and other artwork as style images.
 
+![alt text](results/picassoFinalResult.png)
+
 ## Fast Style Transfer
 Use bash script `fast-style-transfer/train.sh` to run [Fast Style Transfer with Tensorflow (Engstrom)](https://github.com/lengstrom/fast-style-transfer) with tuned hyperparameters. 
 
