@@ -4,6 +4,8 @@ We use style transfer to explore the issue of ownership in AI-generated art and 
 
 ![alt text](results/picassoFinalResult.png)
 
+Our presentation slides can be found [here](https://docs.google.com/presentation/d/1birTiRFL1Y2Oo83mhGfwsP_A2dj456On7c5u_7tvThE/edit?usp=sharing).
+
 ## Fast Style Transfer
 Use bash script `fast-style-transfer/train.sh` to run [Fast Style Transfer with Tensorflow (Engstrom)](https://github.com/lengstrom/fast-style-transfer) with tuned hyperparameters. 
 
