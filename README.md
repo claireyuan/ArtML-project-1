@@ -1,6 +1,6 @@
 # ArtML Project 1: Style Transfer Self-Portraits
 
-We use style transfer to explore how artists view themselves. Starting with a photo of the artist, we iteratively apply style transfer algorithms using the artists' self-portraits and other artwork as style images.
+We use style transfer to explore the issue of ownership in AI-generated art and how artists view themselves. Starting with a photo of the artist, we play with generating “self-portraits” in different ways using the artists' self-portraits and other artwork as style images. Can these results be considered “self-portraits” because it is a portrait of the artist done in their own style? By using an artist’s photograph and an actual self-portrait, we also hope to show how the artists’ view of themselves compares to reality. Our results are in the `results` folder.
 
 ![alt text](results/picassoFinalResult.png)
 
