@@ -31,6 +31,11 @@ Third Iteration
   - Style: monet_art2.png
   - Result: monet_style_transfer3.png
 
+
+### Image Averaging - Monet
+First run `style_transfer_keras.ipynb`. Put `image-averaging/avgimg.py` with your results in the same directory. Run the code.
+It will produce an image with name `avgoutput.png` in your current directory.
+
 ## Neural Doodle 
 How to run: 
 
